@@ -1,0 +1,10 @@
+[
+  {
+    "package": "ggalluvial",
+    "oncran": true
+  },
+  {
+    "package": "tdaunif",
+    "oncran": true
+  }
+]

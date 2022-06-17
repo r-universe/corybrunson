@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ggalluvial"]
+	path = ggalluvial
+	url = https://github.com/corybrunson/ggalluvial
+	shallow = true
+	registered = true
+[submodule "tdaunif"]
+	path = tdaunif
+	url = https://github.com/corybrunson/tdaunif
+	shallow = true
+	registered = true
