@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "interplex",
+    "oncran": true
+  },
+  {
     "package": "tdaunif",
     "oncran": true
   }

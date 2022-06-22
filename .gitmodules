@@ -8,6 +8,11 @@
 	url = https://github.com/corybrunson/ggalluvial
 	shallow = true
 	registered = true
+[submodule "interplex"]
+	path = interplex
+	url = https://github.com/corybrunson/interplex
+	shallow = true
+	registered = true
 [submodule "tdaunif"]
 	path = tdaunif
 	url = https://github.com/corybrunson/tdaunif
