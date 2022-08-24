@@ -13,8 +13,3 @@
 	url = https://github.com/corybrunson/interplex
 	shallow = true
 	registered = true
-[submodule "tdaunif"]
-	path = tdaunif
-	url = https://github.com/corybrunson/tdaunif
-	shallow = true
-	registered = true
