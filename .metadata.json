@@ -2,9 +2,5 @@
   {
     "package": "ggalluvial",
     "oncran": true
-  },
-  {
-    "package": "interplex",
-    "oncran": true
   }
 ]
