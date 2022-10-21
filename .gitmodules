@@ -8,3 +8,8 @@
 	url = https://github.com/corybrunson/ggalluvial
 	shallow = true
 	registered = true
+[submodule "ordr"]
+	path = ordr
+	url = https://github.com/corybrunson/ordr
+	shallow = true
+	registered = true

@@ -2,5 +2,9 @@
   {
     "package": "ggalluvial",
     "oncran": true
+  },
+  {
+    "package": "ordr",
+    "oncran": true
   }
 ]
