@@ -5,6 +5,9 @@
 [submodule "ggalluvial"]
 	path = ggalluvial
 	url = https://github.com/corybrunson/ggalluvial
+[submodule "gggda"]
+	path = gggda
+	url = https://github.com/corybrunson/gggda
 [submodule "ordr"]
 	path = ordr
 	url = https://github.com/corybrunson/ordr
