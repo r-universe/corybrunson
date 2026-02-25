@@ -11,3 +11,6 @@
 [submodule "ordr"]
 	path = ordr
 	url = https://github.com/corybrunson/ordr
+[submodule "rgph"]
+	path = rgph
+	url = https://github.com/cran/rgph
