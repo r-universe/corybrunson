@@ -8,6 +8,9 @@
 [submodule "gggda"]
 	path = gggda
 	url = https://github.com/corybrunson/gggda
+[submodule "ordered"]
+	path = ordered
+	url = https://github.com/corybrunson/ordered
 [submodule "ordr"]
 	path = ordr
 	url = https://github.com/corybrunson/ordr
