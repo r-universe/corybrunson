@@ -1,9 +1,0 @@
-[
-  {
-    "package": "dials",
-    "url": "https://github.com/corybrunson/dials",
-    "via": ["ordered"],
-    "branch": "parallel-reg",
-    "from": "ordered"
-  }
-]
